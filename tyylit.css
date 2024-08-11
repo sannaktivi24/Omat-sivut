@@ -1,0 +1,18 @@
+body {
+    background-color: pink;
+}
+h1{
+    color: blue;
+    font-family: 40px;
+}
+h2{
+    font-size: 30px;
+
+}
+p {
+    font-size: 20px;
+}
+i,b{
+    color: purple;
+
+}
